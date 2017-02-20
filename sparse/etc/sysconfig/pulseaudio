@@ -1,0 +1,1 @@
+CONFIG="-n --file=/etc/pulse/arm_msm89996_oneplus3.pa"
